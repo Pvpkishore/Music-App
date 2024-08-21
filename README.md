@@ -112,5 +112,3 @@ SOFTWARE.
 ```
 
 ---
-
-Replace `[Your Name or Your GitHub Username]` with your actual name or GitHub username.
