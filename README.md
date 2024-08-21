@@ -18,9 +18,7 @@
 - [Contributing](#contributing)
 - [License](#license)
 
-## Demo
-
-[Insert a link to your live demo or include a GIF/image of your application in action.]
+##Demo
 
 ## Features
 
