@@ -5,7 +5,7 @@
 
 ## Overview
 
-**MUSIC APP** is a web-based application built using JavaScript, HTML, and CSS. The app allows users to play and manage their favorite music tracks with an intuitive and user-friendly interface. It features basic music controls such as play, pause, and track navigation.
+**MUSICX APP** is a web-based application built using JavaScript, HTML, and CSS. The app allows users to play and manage their favorite music tracks with an intuitive and user-friendly interface. It features basic music controls such as play, pause, and track navigation.
 
 ## Table of Contents
 
